@@ -55,7 +55,7 @@ The color palette is the same from [Vercel](https://vercel.com/docs/beginner-sve
   </tr>
   <tr>
     <td>Gray</td>
-    <td>#D32D6C</td>
+    <td>#4903fc</td>
     <td>211, 45, 108</td>
     <td><img src="https://placeholder.pics/svg/20x20/d32d6c" /></td>
 
